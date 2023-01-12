@@ -1,0 +1,14 @@
+github.com/golang-infrastructure/go-cycle-string v0.0.0-20230112070259-1f2aef454e36 h1:KcZi57vddXSOYjnEm8Ii8Nlozi+VOvddEFUi4BVUQzI=
+github.com/golang-infrastructure/go-cycle-string v0.0.0-20230112070259-1f2aef454e36/go.mod h1:u6vOBYH36nXRmHoOwNLtVz19ncnwr0liPhC7aOP3Jdg=
+github.com/golang-infrastructure/go-gtypes v0.0.1 h1:hnM1OYSwLPLGkZ4C6ecAxgmAUaPTjnhnUtRNmJj4p6c=
+github.com/golang-infrastructure/go-gtypes v0.0.1/go.mod h1:vFMCxFzxdMInvTtgLZRlWI1rS+mui88sMbL5I+zu1hg=
+github.com/golang-infrastructure/go-if-expression v0.0.2 h1:7xS0/6jNsWSz++xIhxc/gfAfCoDAeBzwxCBhDjQwMRI=
+github.com/golang-infrastructure/go-if-expression v0.0.2/go.mod h1:U4ZtU29/RtZ/cM0tAdBzFaFxENFShSFj+jCRFRE/cv4=
+github.com/golang-infrastructure/go-iterator v0.0.0-20230112065131-1d82695f2289 h1:BYyz5BZuXOYSfEGyJKjMQKPsfEYazKixHFpyLOE/+3k=
+github.com/golang-infrastructure/go-iterator v0.0.0-20230112065131-1d82695f2289/go.mod h1:Guf14ZZ7f7qiE0YpZbUkICcm7LWc3nrn3/gDObT//WI=
+github.com/golang-infrastructure/go-maths v0.0.0-20230110035134-3c905a5d5213 h1:l7OSaNJJ5JkLNUIIz7BuaTTo0lBTqcG4QScPOa4DFV0=
+github.com/golang-infrastructure/go-maths v0.0.0-20230110035134-3c905a5d5213/go.mod h1:66VNYnuOFws0n4+Wat/SJM92b7KC7tcD6BmGEB5prBI=
+github.com/golang-infrastructure/go-stack v0.0.2 h1:1F+F4/s2YlAW9NI8zc4jl90WrqLlXsWfCstBRpPvVl4=
+github.com/golang-infrastructure/go-stack v0.0.2/go.mod h1:m7RdZjsmlvHogbsiovh1uxvxVhwzJdNsrYh1BxdcFrQ=
+github.com/golang-infrastructure/go-variable-parameter v0.0.3 h1:+roJv+T/krkl5YMZtCXzdgDSP0RDWK0W1V2lTkpeDNA=
+github.com/golang-infrastructure/go-variable-parameter v0.0.3/go.mod h1:qEnCqgG04+EpGWqRXaNpKhu4JsP6xcT85WpJyS83Dcw=
