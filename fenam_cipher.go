@@ -2,7 +2,7 @@ package fenam_cipher
 
 import (
 	"fmt"
-	cycle_string "github.com/golang-infrastructure/go-cycle-string"
+	cycle_string "github.com/cryptography-research-lab/go-cycle-string"
 	if_expression "github.com/golang-infrastructure/go-if-expression"
 	stack "github.com/golang-infrastructure/go-stack"
 	variable_parameter "github.com/golang-infrastructure/go-variable-parameter"

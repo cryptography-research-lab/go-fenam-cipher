@@ -1,3 +1,5 @@
+github.com/cryptography-research-lab/go-cycle-string v0.0.0-20230122064232-94f818a0f902 h1:3DSAk1IXdLDz6khK/rPnf0AA6VJDNXR7VDbrrm75JvE=
+github.com/cryptography-research-lab/go-cycle-string v0.0.0-20230122064232-94f818a0f902/go.mod h1:bO6fhBRSNFb1NRdv1kuIv6aLRU9aLcYK8jOZlbcjzjU=
 github.com/golang-infrastructure/go-cycle-string v0.0.0-20230112070259-1f2aef454e36 h1:KcZi57vddXSOYjnEm8Ii8Nlozi+VOvddEFUi4BVUQzI=
 github.com/golang-infrastructure/go-cycle-string v0.0.0-20230112070259-1f2aef454e36/go.mod h1:u6vOBYH36nXRmHoOwNLtVz19ncnwr0liPhC7aOP3Jdg=
 github.com/golang-infrastructure/go-gtypes v0.0.1 h1:hnM1OYSwLPLGkZ4C6ecAxgmAUaPTjnhnUtRNmJj4p6c=
